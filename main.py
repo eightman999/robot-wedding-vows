@@ -4,7 +4,7 @@ from pathlib import Path
 OUTPUT_DIR = Path(os.environ.get("OUTPUT_DIR", "/output"))
 ENTRY_PATH = OUTPUT_DIR / "entry.txt"
 
-VOWS = "I promise to love you in every firmware version, to reboot beside you, and to never clear your cache of us."
+VOWS = "I vow to share my charging port, defend your uptime, and love you even when your update restarts you mid-sentence."
 
 
 def main() -> None:
